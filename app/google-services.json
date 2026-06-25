@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701347839640",
+    "project_id": "phoneproject-455a5",
+    "storage_bucket": "phoneproject-455a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701347839640:android:9489da449595624afe9aed",
+        "android_client_info": {
+          "package_name": "com.phoneproject.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbUttJE-X8Wun0sstjylC_-NhDYsf7JpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Ops",
+  "description": "Hospital Operations Management Mobile App featuring task tracking, handovers, delegations, issue escalations, and performance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
